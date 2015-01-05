@@ -1,0 +1,152 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="pictures/tongjiTouming.png"/>
+
+    <title>同济大学评师评课网站</title>
+
+    <link href="css/bootstrap.css" rel="stylesheet"/>
+    <link href="css/home.css" rel="stylesheet"> 
+    <script LANGUAGE="JavaScript">
+　　function openwin() { 
+　　alert('注册成功！');
+    window.close();
+    window.open('logonPage.html');
+　　} 
+　　</script>
+    
+</head>
+
+<body>
+    <div class="container">  
+       <div class="col-md-10">
+                <h2 class="text-muted">
+                    <img class='tj' src="pictures/tongjiTouming.png" alt='tj'/>
+                    欢迎使用同济大学评师评课网站！
+                </h2>
+        </div>
+         <span style="float:left;">  
+                已经注册？请直接  
+         <a href="logonPage.html">  <strong >  登录</strong>  </a>  
+         </span> 
+        <hr/> 
+        
+        
+        <form id="redisterUser" name="redisterUser" method="post" action="">
+            <table width="71%" border="0" align="left">  
+                <tr><td style="font-family:verdana;
+                        color: #666666; "  align="left"><strong>请完善用户资料</strong></td></tr>
+                <tr>  
+                    <td style="color: #0099cc" align="left"><strong>用  户  名:</strong></td> 
+                    <td> 
+                    <input type="text" id="username" name="username" required/>  *</td>  
+                </tr>  
+                <tr>  
+                    <td style="color: #0099cc" align="left"><strong>密    码：</strong></td> 
+                    <td> 
+                    <input type="password" id="password" name="password" required /> * </td>  
+                </tr>  
+                <tr>  
+                    <td style="color: #0099cc" align="left"><strong>确  认  密  码：</strong></td> 
+                    <td> 
+                    <input type="password" id="repassword" name="repassword" required />  *  </td>  
+                </tr>  
+                 <tr>  
+                     <td style="color: #0099cc" align="left"><strong>昵    称：</strong></td> 
+                    <td> 
+                    <input type="text" id="userNiceName" name="userNiceName" required />  *  </td>  
+                </tr> 
+                 <tr>  
+                    <td style="color: #0099cc" align="left"><strong>所  属  学  院：</strong></td> 
+                    <td> 
+                        <select name="selectSchool" id="selectSchool">
+                            <option style="color:#666" value="0">请选择所属学院</option>
+                            <option id="sec" value="sec">软件学院</option>
+                                <option id="jzcsgh" value="jzycsgh">建筑与城市规划学院</option>
+                                <option id="tmgc" value="tmgc">土木工程学院</option>
+                                <option id="jxnygc" value="jxnygc">机械与能源工程学院</option>
+                                <option id="jjygl" value="jjygl">经济与管理学院</option>
+                                <option id="hjkxygc" value="hjkxygc">环境科学与工程学院</option>
+                                <option id="clkxygc" value="clkxygc">材料科学与工程学院</option>
+                                <option id="dzyxxgc" value="dzyxxgc">电子与信息工程学院</option>
+                                <option id="rw" value="rw">人文学院</option>
+                                <option id="wgy" value="wgy">外国语学院</option>
+                                <option id="fzscq" value="fzscq">法学院/知识产权学院</option>
+                                <option id="mkszy" value="mkszy">马克思主义学院</option>
+                                <option id="zzgjgx" value="zzgjgx">政治与国际关系学院</option>
+                                <option id="l" value="l">理学部</option>
+                                <option id="qc" value="qc">汽车学院</option>
+                                <option id="jtysgc" value="jtysgc">交通运输工程学院</option>
+                                <option id="chydlxx" value="chydlxx">测绘与地理信息学院</option>
+                                <option id="smkxyjs" value="smkxyjs">生命科学与技术学院</option>
+                                <option id="y" value="y">医学院</option>
+                                <option id="sjyys" value="sjyys">设计与艺术学院</option>
+                                <option id="kqyxy" value="kqyxy">口腔医学院</option>
+                                <option id="gdjt" value="gdjt">铁道与城市轨道交通研究院</option>
+                                <option id="ty" value="ty">体育教学部</option>
+                                <option id="zyjsjy" value="zyjsjy">职业技术教育院</option>
+                                <option id="nz" value="nz">女子学院</option>
+                                <option id="gjwhjl" value="gjwhjl">国际文化交流院</option>
+                                <option id="zd" value="zd">中德学院</option>
+                                <option id="zdgc" value="zdgc">中德工程学院</option>
+                                <option id="zfgchgl" value="zfgchgl">中法工程和管理学院</option>
+                                <option id="zy" value="zy">中意学院</option>
+                                <option id="hjycxfz" value="hjycxfz">环境与持续发展学院&nbsp;联合国环境桂花署</option>
+                                <option id="swyxgc" value="swyxgc">生物医学工程与纳米科学研究院</option>
+                                <option id="zx" value="zx">中西学院</option>
+                                <option id="xdnykx" value="xdnykx">现代农业科学与工程研究院</option>
+                        </select>
+                    
+                    * </td>  
+                </tr>
+                <tr>  
+                    <td style="color: #0099cc" align="left"><strong>学    历:</strong></td>  
+                    <td><input type="radio" name="degree" id="degree" value="undergraduate" /> 
+                        <label for="degree">本科</label>
+                        <input type="radio" name="degree" id="degree" value="postgraduate" /> 
+                        <label for="degree">研究生</label>
+                    *  </td>  
+                    <td>  <div id="nicknameJS"></div>  </td>  
+                </tr>  
+                 <tr>  
+                    <td style="color: #0099cc" align="left"><strong>邮    箱：</strong></td> 
+                    <td> 
+                    <input type="text" id="Email" name="Email" required />  *  </td>  
+                </tr>
+                <tr>  
+                    <td style="color: #0099cc" align="left"><strong>手  机  号  码：</strong></td> 
+                    <td> 
+                    <input type="text" id="phone" name="phone" required />  *  </td>  
+                </tr>
+ 
+                <tr>  <td style="color: #0099cc" align="left"><strong>密 码 保 护 问 题:  </strong>
+                    </td>  <td>  <input type="text" id="question" name="question" />    </td>  
+                </tr>  
+                <tr>  
+                    <td style="color: #0099cc" align="left"> <strong> 密 码 保 护 的 答 案: </strong>  </td>  
+                    <td>  <input type="text" id="answer" name="answer" />     </td>  
+                </tr>  
+                <tr>  <td>  <input type="submit" id="submit" value="注册" onclick="openwin()"/>  </td>  
+                </tr>  
+            </table>    
+            
+            
+            <table  align="right">
+                <tr>
+                <td><image src="pictures/tj_huabiao.jpg"/></td></tr>
+            </table>
+      </form>
+    </div>
+      
+    </body>
+</html>
+                                  

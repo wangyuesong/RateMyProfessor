@@ -1,0 +1,598 @@
+2015/01/04 13:20:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86
+---
+2015/01/04 13:20:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/myDa...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86
+---
+2015/01/04 13:20:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95
+---
+2015/01/04 13:20:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/myDa...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95
+---
+2015/01/04 13:20:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95
+---
+2015/01/04 13:20:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9
+---
+2015/01/04 13:20:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9
+---
+2015/01/04 13:20:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/my...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9
+---
+2015/01/04 13:20:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9&flag=1
+---
+2015/01/04 13:20:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9&flag=1
+---
+2015/01/04 13:20:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/my...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9&flag=1
+---
+2015/01/04 13:21:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('home/js/bootstr...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/home/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/home/index
+---
+2015/01/04 13:21:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('home/js/holder....')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/home/js/holder.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/home/index
+---
+2015/01/05 14:36:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:36:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/myDa...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:36:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:36:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9
+---
+2015/01/05 14:36:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9
+---
+2015/01/05 14:36:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/my...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9
+---
+2015/01/05 14:36:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:36:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/myDa...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:36:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:39:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:39:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/myDa...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:39:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('home/js/bootstr...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/home/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/home/index
+---
+2015/01/05 14:39:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('home/js/holder....')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/home/js/holder.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/home/index
+---
+2015/01/05 14:40:56 [error] [exception.CException] exception 'CException' with message 'ProfessorController cannot find the requested view "index".' in /Library/WebServer/Documents/framework/web/CController.php:878
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /Library/WebServer/Documents/RateMyProfessor1/protected/controllers/ProfessorController.php(42): CController->render('index')
+#2 /Library/WebServer/Documents/framework/web/actions/CInlineAction.php(49): ProfessorController->actionIndex()
+#3 /Library/WebServer/Documents/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /Library/WebServer/Documents/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /Library/WebServer/Documents/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('')
+#7 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor')
+#8 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#9 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#10 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor
+---
+2015/01/05 14:40:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=6
+---
+2015/01/05 14:40:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=6
+---
+2015/01/05 14:40:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/my...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=6
+---
+2015/01/05 14:43:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('home/js/bootstr...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/home/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/home/index
+---
+2015/01/05 14:43:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('home/js/holder....')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/home/js/holder.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/home/index
+---
+2015/01/05 14:43:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('academy/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/academy/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/academy/eachAcademyCourses?name=%E5%8C%BB%E5%AD%A6%E9%99%A2
+---
+2015/01/05 14:43:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('academy/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/academy/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/academy/eachAcademyCourses?name=%E5%8C%BB%E5%AD%A6%E9%99%A2
+---
+2015/01/05 14:43:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('academy/js/myDa...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/academy/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/academy/eachAcademyCourses?name=%E5%8C%BB%E5%AD%A6%E9%99%A2
+---
+2015/01/05 14:43:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=16
+---
+2015/01/05 14:43:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=16
+---
+2015/01/05 14:43:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/my...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=16
+---
+2015/01/05 14:44:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9
+---
+2015/01/05 14:44:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/my...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9
+---
+2015/01/05 14:44:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=9
+---
+2015/01/05 14:45:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=6
+---
+2015/01/05 14:45:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=6
+---
+2015/01/05 14:45:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/my...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=6
+---
+2015/01/05 14:45:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:45:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/myDa...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:45:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('courses/js/jque...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/courses/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/courses/eachCourse?courseName=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B
+---
+2015/01/05 14:45:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=6
+---
+2015/01/05 14:45:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/jq...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=6
+---
+2015/01/05 14:45:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('professor/js/my...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/professor/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/professor/eachProfessor?professorID=6
+---
+2015/01/05 22:45:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('topics/js/jquer...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/topics/js/jquery-1.9.1.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/topics/11
+---
+2015/01/05 22:45:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('topics/js/myDat...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/topics/js/myDate.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/topics/11
+---
+2015/01/05 22:45:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in /Library/WebServer/Documents/framework/web/CController.php:483
+Stack trace:
+#0 /Library/WebServer/Documents/framework/web/CController.php(270): CController->missingAction('js')
+#1 /Library/WebServer/Documents/framework/web/CWebApplication.php(282): CController->run('js')
+#2 /Library/WebServer/Documents/framework/web/CWebApplication.php(141): CWebApplication->runController('topics/js/jquer...')
+#3 /Library/WebServer/Documents/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Library/WebServer/Documents/RateMyProfessor1/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/RateMyProfessor1/index.php/topics/js/jquery-ui-1.10.3.js
+HTTP_REFERER=http://localhost/RateMyProfessor1/index.php/topics/11
+---
