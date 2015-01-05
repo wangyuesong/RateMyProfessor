@@ -1,0 +1,53 @@
+/* 
+    Document   : eachTeacher
+    Created on : 2014-4-16, 21:30:08
+    Author     : wangtianxia
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.imageTea {
+    width: 200px;
+    height: 250px;
+}
+
+.tieziDiv {
+    padding: 20px;
+}
+
+.tiezi {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    font-weight: 200;
+    line-height: 2.1428571435;
+    color: inherit;
+}
+
+.tzTitle {
+    position: relative;
+    top:15px;
+}
+
+.tzSubTitle {
+    position: relative;
+    top: 20px;
+}
+
+.timeAuthor {
+    position: relative;
+    bottom: 15px;
+}
+
+.tzMain {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+
+.comment {
+    color: #848484;
+}

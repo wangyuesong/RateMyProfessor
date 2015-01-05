@@ -1,0 +1,40 @@
+/* 
+    Document   : search
+    Created on : 2014-4-15, 15:50:55
+    Author     : wangtianxia
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.topImgDiv {
+    padding-left: 20px;
+    padding-right: 20px;
+    z-index: -1;
+}
+
+.topImg {
+    width: 1130px;
+}
+
+.searchContainer {
+    padding-top: 50px;
+}
+
+.searchMain {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.search-form {
+  text-align: center;
+  width: 100%;
+}
+
+
+.sort {
+    padding: 3px;
+    position: relative;
+    left: -60px;
+}

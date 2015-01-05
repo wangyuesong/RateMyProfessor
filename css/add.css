@@ -1,0 +1,35 @@
+/* 
+    Document   : add
+    Created on : 2014-4-16, 8:23:22
+    Author     : wangtianxia
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+.addMainInfor {
+    padding-top: 50px;
+}
+
+.rightContainer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.centalContainer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.success {
+    color: #848484;
+}
+
+.comment {
+    color: #848484;
+    text-align: center;
+}
